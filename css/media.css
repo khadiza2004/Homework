@@ -1,0 +1,143 @@
+
+/* Extra large devices  */
+@media (min-width: 1200px) {  }
+
+ /* Large devices  */
+ @media (min-width: 992px) and (max-width: 1199.98px) {  }
+
+
+ 
+ /* Medium devices  */
+ @media (min-width: 768px) and (max-width: 991.98px) {  }
+
+/* Small devices  */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+  
+ }
+
+ /* Extra  small  */
+ @media (min-width: 320px) and (max-width: 575.98px) {  
+/* header_part_start */
+.navbar-toggler{
+    color: #fff;
+    font-size: 30px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    background: #41aab4;
+    text-align: center;
+    background-repeat: 10px;
+
+  }
+/* header_part_end */
+
+
+
+
+/* banner_part_start */
+.banner_overly {
+    padding: 150px 0;
+  }
+.banner_text h3 {
+    font-size: 32px;
+    line-height: 36px;
+  }
+  .banner_text h1 {
+    font-size: 40px;
+    line-height: 40px;
+  }
+/* banner_part_end */
+
+/* template_part_start */
+.templete_text h3 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+
+.purchase_text h3 {
+    font-size: 25px;
+    text-align: center;
+    line-height: 30px;
+  }
+  .load_button{
+    text-align: center;
+  }
+  .portfolio_buttons button {
+    padding: 8px 44px;
+  }
+  .purchase_text p {
+    color: #fff;
+    text-align: center;
+    line-height: 22px;
+    padding-bottom: 20px;
+  }
+  .video_text h3 {
+    font-size: 29px;
+    line-height: 30px;
+  }
+
+.hand_right_text{
+  text-align: center;
+}
+  .video_text p {
+    font-size: 16px;
+    color: blanchedalmond;
+  }
+
+  .hand_right_text h1 {
+    line-height: 30px;
+  }
+
+  .hand_right_text p {
+    line-height: 25px;
+    font-size: 14px;
+  }
+
+
+  .icon_text ul li {
+    font-size: 14px;
+    padding-bottom: 30px;
+  }
+
+  .counter_text p {
+    padding-bottom: 30px;
+  }
+  .venobox_overly {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background: rgba(0, 0, 0, 0.6);
+  }
+  .counter_text p::after {
+    bottom: -59px;
+  }
+  .sticky_name {
+    animation: alif 1s;
+    background: #a58420;
+  }
+  .post_text p {
+    font-size: 14px;
+  }
+
+  .fotter_text p {
+    padding: 30px 4px;
+    color: #fff;
+    text-align: center;
+  }
+/* last part start  */
+
+  .last_text{ 
+      padding-bottom: 20px;
+  }
+/* last part end  */
+
+ }
+
+
+
+
+
+
+
+
+
+
+
